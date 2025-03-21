@@ -1,3 +1,8 @@
+###############################################################################
+# Dev:      Jesse Turner, Keelia Mattison, and Alejandro Barranco, Nibardo Reyes Felix
+# Class:    CYB-420: Global Perspectives on Cyber Warfare
+# Version:  V1
+###############################################################################
 import random
 
 def phishing_email():
